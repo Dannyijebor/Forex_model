@@ -1,0 +1,40 @@
+{
+  "generated_at": "2025-12-05T10:37:03.689494",
+  "pipeline_start": "2025-12-05T10:37:03.448824",
+  "total_runtime_hours": 6.685277777777777e-05,
+  "current_equity": 9981.91,
+  "max_drawdown": 0.0018090000000000146,
+  "total_return_pct": -0.18090000000000145,
+  "performance_history": [
+    {
+      "timestamp": "2025-12-05T10:37:03.541347",
+      "equity": 9981.91,
+      "balance": 9981.91,
+      "open_positions": 0,
+      "open_profit": 0,
+      "max_drawdown": 0.0018090000000000146,
+      "current_drawdown": 0.0018090000000000146,
+      "return_pct": -0.18090000000000145
+    },
+    {
+      "timestamp": "2025-12-05T10:37:03.601914",
+      "equity": 9981.91,
+      "balance": 9981.91,
+      "open_positions": 0,
+      "open_profit": 0,
+      "max_drawdown": 0.0018090000000000146,
+      "current_drawdown": 0.0018090000000000146,
+      "return_pct": -0.18090000000000145
+    },
+    {
+      "timestamp": "2025-12-05T10:37:03.656933",
+      "equity": 9981.91,
+      "balance": 9981.91,
+      "open_positions": 0,
+      "open_profit": 0,
+      "max_drawdown": 0.0018090000000000146,
+      "current_drawdown": 0.0018090000000000146,
+      "return_pct": -0.18090000000000145
+    }
+  ]
+}

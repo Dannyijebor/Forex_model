@@ -1,0 +1,166 @@
+2025-12-04 21:03:00,308 | Phase6 | INFO | ============================================================
+2025-12-04 21:03:00,310 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-04 21:03:00,311 | Phase6 | INFO | ============================================================
+2025-12-04 21:04:06,085 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-04 21:04:06,087 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-04 21:06:17,833 | Portion3 | WARNING | MT5 initialization failed - running in simulation mode
+2025-12-04 21:06:17,835 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-04 21:06:17,837 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-04 21:07:23,696 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-04 21:09:50,619 | Portion1 | ERROR | MT5 not initialized
+2025-12-04 21:09:50,621 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.00)
+2025-12-04 21:09:50,628 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-04 21:09:50,653 | Phase6 | INFO | MT5 connection closed
+2025-12-04 21:09:50,655 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-04 21:09:50,657 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-04 21:42:44,665 | Phase6 | INFO | ============================================================
+2025-12-04 21:42:44,675 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-04 21:42:44,679 | Phase6 | INFO | ============================================================
+2025-12-04 21:43:50,492 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-04 21:43:50,493 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-04 21:43:50,548 | Portion3 | INFO | MT5 initialized successfully
+2025-12-04 21:43:50,549 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-04 21:43:50,551 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-04 21:43:50,576 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-04 21:43:50,784 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-04 21:43:50,786 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-04 21:43:50,788 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-04 21:43:50,810 | Phase6 | INFO | MT5 connection closed
+2025-12-04 21:43:50,814 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-04 21:43:50,815 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-04 21:59:39,897 | Phase6 | INFO | ============================================================
+2025-12-04 21:59:39,900 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-04 21:59:39,903 | Phase6 | INFO | ============================================================
+2025-12-04 22:00:45,798 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-04 22:00:45,800 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-04 22:02:57,451 | Portion3 | WARNING | MT5 initialization failed - running in simulation mode
+2025-12-04 22:02:57,452 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-04 22:02:57,460 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-04 22:04:03,297 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-04 22:04:03,387 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-04 22:04:03,389 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-04 22:04:03,390 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-04 22:04:03,412 | Phase6 | INFO | MT5 connection closed
+2025-12-04 22:04:03,415 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-04 22:04:03,418 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 08:32:27,864 | Phase6 | INFO | ============================================================
+2025-12-05 08:32:27,867 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 08:32:27,870 | Phase6 | INFO | ============================================================
+2025-12-05 08:33:34,212 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-05 08:33:34,214 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 08:35:46,166 | Portion3 | WARNING | MT5 initialization failed - running in simulation mode
+2025-12-05 08:35:46,188 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 08:35:46,189 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 08:36:52,220 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 08:38:01,376 | Portion1 | ERROR | MT5 not initialized
+2025-12-05 08:38:01,389 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.00)
+2025-12-05 08:38:01,390 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 08:39:07,370 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 08:39:07,371 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 09:28:00,044 | Phase6 | INFO | ============================================================
+2025-12-05 09:28:00,046 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 09:28:00,048 | Phase6 | INFO | ============================================================
+2025-12-05 09:29:06,037 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-05 09:29:06,038 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 09:38:06,498 | Portion3 | WARNING | MT5 initialization failed - running in simulation mode
+2025-12-05 09:38:06,499 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 09:38:06,501 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 09:38:47,065 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 09:38:56,755 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 09:38:56,757 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 09:38:56,759 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 09:38:56,775 | Phase6 | INFO | MT5 connection closed
+2025-12-05 09:38:56,778 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 09:38:56,780 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 09:39:58,327 | Phase6 | INFO | ============================================================
+2025-12-05 09:39:58,330 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 09:39:58,331 | Phase6 | INFO | ============================================================
+2025-12-05 09:39:58,356 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 09:39:58,386 | Portion3 | INFO | MT5 initialized successfully
+2025-12-05 09:39:58,387 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 09:39:58,388 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 09:39:58,404 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 09:39:58,445 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 09:39:58,446 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 09:39:58,447 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 09:39:58,460 | Phase6 | INFO | MT5 connection closed
+2025-12-05 09:39:58,461 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 09:39:58,461 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 10:15:25,329 | Phase6 | INFO | ============================================================
+2025-12-05 10:15:25,331 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 10:15:25,337 | Phase6 | INFO | ============================================================
+2025-12-05 10:15:26,458 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 10:15:26,503 | Portion3 | INFO | MT5 initialized successfully
+2025-12-05 10:15:26,505 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 10:15:26,506 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 10:15:26,527 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:15:26,591 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 10:15:26,592 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 10:15:26,593 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 10:15:26,611 | Phase6 | INFO | MT5 connection closed
+2025-12-05 10:15:26,614 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 10:15:26,616 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 10:24:26,535 | Phase6 | INFO | ============================================================
+2025-12-05 10:24:26,537 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 10:24:26,545 | Phase6 | INFO | ============================================================
+2025-12-05 10:25:32,324 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-05 10:25:32,325 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 10:27:43,848 | Portion3 | WARNING | MT5 initialization failed - running in simulation mode
+2025-12-05 10:27:43,849 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 10:27:43,850 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 10:28:49,621 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:29:55,390 | Portion1 | ERROR | MT5 not initialized
+2025-12-05 10:29:55,391 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.00)
+2025-12-05 10:29:55,393 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 10:31:00,959 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 10:31:00,960 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 10:31:34,053 | Phase6 | INFO | ============================================================
+2025-12-05 10:31:34,054 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 10:31:34,056 | Phase6 | INFO | ============================================================
+2025-12-05 10:32:39,841 | Phase6 | WARNING | MT5 not available - running in simulation mode
+2025-12-05 10:32:39,843 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 10:34:51,556 | Portion3 | WARNING | MT5 initialization failed - running in simulation mode
+2025-12-05 10:34:51,557 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 10:34:51,558 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 10:35:57,400 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:37:03,171 | Portion1 | ERROR | MT5 not initialized
+2025-12-05 10:37:03,173 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.00)
+2025-12-05 10:37:03,193 | Phase6 | INFO | ============================================================
+2025-12-05 10:37:03,194 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 10:37:03,196 | Phase6 | INFO | ============================================================
+2025-12-05 10:37:03,217 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 10:37:03,248 | Portion3 | INFO | MT5 initialized successfully
+2025-12-05 10:37:03,250 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 10:37:03,252 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 10:37:03,253 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:37:03,295 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 10:37:03,297 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 10:37:03,316 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 10:37:03,334 | Phase6 | INFO | MT5 connection closed
+2025-12-05 10:37:03,335 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 10:37:03,336 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 10:37:03,338 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 10:37:03,360 | Phase6 | INFO | MT5 connection closed
+2025-12-05 10:37:03,362 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 10:37:03,364 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
+2025-12-05 10:37:03,369 | Phase6 | INFO | ============================================================
+2025-12-05 10:37:03,370 | Phase6 | INFO | Initializing Advanced 6-Phase Trading Pipeline v1.0.0
+2025-12-05 10:37:03,372 | Phase6 | INFO | ============================================================
+2025-12-05 10:37:03,399 | Portion1 | INFO | Signal model loaded (placeholder)
+2025-12-05 10:37:03,446 | Portion3 | INFO | MT5 initialized successfully
+2025-12-05 10:37:03,448 | Phase6 | INFO | All 6 portions initialized successfully
+2025-12-05 10:37:03,450 | Phase6 | INFO | Phase 6 Pipeline initialized successfully
+2025-12-05 10:37:03,451 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:37:03,489 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 10:37:03,491 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 10:37:03,541 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:37:03,572 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 10:37:03,573 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 10:37:03,601 | Phase6 | INFO | Starting pipeline cycle for USDJPYm
+2025-12-05 10:37:03,626 | Portion1 | INFO | Signal generated for USDJPYm: 0 (confidence: 0.50)
+2025-12-05 10:37:03,627 | Phase6 | INFO | No trading signal for USDJPYm (confidence: 0.50)
+2025-12-05 10:37:03,670 | Phase6 | INFO | Shutting down Phase 6 Pipeline...
+2025-12-05 10:37:03,686 | Phase6 | INFO | MT5 connection closed
+2025-12-05 10:37:03,688 | Phase6 | ERROR | Failed to save pipeline state: [Errno 2] No such file or directory: 'state/pipeline_state.pkl'
+2025-12-05 10:37:03,694 | Portion5 | INFO | Performance report saved: logs/performance_20251205_103703.json
+2025-12-05 10:37:03,696 | Phase6 | INFO | Phase 6 Pipeline shutdown complete
